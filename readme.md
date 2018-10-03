@@ -88,7 +88,7 @@ Attention, pour la compilation, il ya deux cas.
 ~ $ ./a.out
 ```
 
-Dans les deux cas, une fenêtre noir titre "Hello world" devrait s'ouvrir.
+Dans les deux cas, une fenêtre noire titrée "Hello world" devrait s'ouvrir.
 
 ## Quelques petits pièges à éviter
 
